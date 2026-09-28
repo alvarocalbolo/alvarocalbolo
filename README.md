@@ -1,14 +1,10 @@
 <p align="center">
-[![Álvaro](https://img.shields.io/badge/%20%C3%81lvaro%20-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvarocalbolo)
-</p>
-<p align="center">
-[![España](https://img.shields.io/badge/Espa%C3%B1a-0E7490?style=for-the-badge)](https://github.com/alvarocalbolo)
-[![Estudiante de 2º de DAW](https://img.shields.io/badge/Estudiante%20de%202%C2%BA%20de%20DAW-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvarocalbolo)
-[![Web Dev Student](https://img.shields.io/badge/Web%20Dev%20Student-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvarocalbolo)
-</p>
-<p align="center">
-[![Disponible para prácticas](https://img.shields.io/badge/Disponible%20para%20pr%C3%A1cticas-10B981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/alvarocalbolo)
-[![Open to internships](https://img.shields.io/badge/Open%20to%20internships-0E7490?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/alvarocalbolo)
+<a href="https://github.com/alvarocalbolo"><img src="https://img.shields.io/badge/%20%C3%81lvaro%20-10B981?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Álvaro" height="30"></a><br>
+<a href="https://github.com/alvarocalbolo"><img src="https://img.shields.io/badge/Espa%C3%B1a-0E7490?style=for-the-badge" alt="España" height="30"></a>
+<a href="https://github.com/alvarocalbolo"><img src="https://img.shields.io/badge/Estudiante%20de%202%C2%BA%20de%20DAW-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Estudiante de 2º de DAW" height="30"></a>
+<a href="https://github.com/alvarocalbolo"><img src="https://img.shields.io/badge/Web%20Dev%20Student-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Web Dev Student" height="30"></a><br>
+<a href="https://github.com/alvarocalbolo"><img src="https://img.shields.io/badge/Disponible%20para%20pr%C3%A1cticas-10B981?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="Disponible para prácticas" height="30"></a>
+<a href="https://github.com/alvarocalbolo"><img src="https://img.shields.io/badge/Open%20to%20internships-0E7490?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="Open to internships" height="30"></a>
 </p>
 
 ---
